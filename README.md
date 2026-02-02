@@ -108,7 +108,7 @@ All colors and styling can be customized through CSS variables in `style.css`:
 
 ## 📧 Contact Information
 
-- **Email**: vh9997@srmist.edu.in
+- **Email**: vishwaah24@gmail.com
 - **Phone**: +91 8825593889
 - **Location**: Chennai, India
 
